@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NumberScroll.iml" filepath="$PROJECT_DIR$/NumberScroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/numberscroll-example.iml" filepath="$PROJECT_DIR$/app/numberscroll-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberscroll-library/numberscroll-library.iml" filepath="$PROJECT_DIR$/numberscroll-library/numberscroll-library.iml" />
+    </modules>
+  </component>
+</project>
